@@ -1,0 +1,6 @@
+{
+  "name": "AuraHealth Enterprise HMS",
+  "description": "Enterprise Multi-Branch Hospital Management System navigation shell with OPD, IPD, EMR, Voice Search, and NABH/ABHA compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
